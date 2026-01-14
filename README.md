@@ -1,0 +1,47 @@
+-
+# ☕ Coffee Shop Sales Dashboard
+
+This project presents an interactive Coffee Shop Sales Dashboard designed to analyze sales performance,
+customer behavior, and store-level growth using Power BI.
+
+The dashboard helps identify top-selling products, monthly sales trends, weekday vs weekend performance,
+and store-wise revenue contribution.
+
+---
+
+## 🔗 Live Dashboard
+Click the link below to explore the live interactive dashboard:
+
+👉 [View Live Coffee Shop Sales Dashboard](PASTE_POWER_BI_PUBLISH_TO_WEB_LINK_HERE)
+
+---
+
+## 📊 Key Insights
+- Total Sales, Quantity, and Transactions overview
+- Monthly Sales Trend & Average Order Value (AOV)
+- Top 5 Best-Selling Products
+- Weekday vs Weekend Sales Performance
+- Store-wise Sales & Month-over-Month Growth
+- Product Category Performance Analysis
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- CSV Sales Dataset
+- Data Modeling & DAX
+- Interactive Filters & Slicers
+
+---
+
+## 📸 Dashboard Preview
+![Coffee Shop Sales Dashboard](dashboard/screenshots/coffee_shop_dashboard.png)
+
+---
+
+## 📌 Use Case
+This dashboard is ideal for:
+- Business performance analysis
+- Retail sales monitoring
+- Data analytics portfolio projects
+- Management decision-making support
